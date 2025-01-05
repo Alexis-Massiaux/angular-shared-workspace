@@ -1,0 +1,9 @@
+.eva-header {
+  background: url('evaLogo.svg') black no-repeat left center;
+  background-size:100px;
+  height:45px;
+  width:100%;
+  display:flex;
+  align-items:center;
+  padding-left:20px;
+}
